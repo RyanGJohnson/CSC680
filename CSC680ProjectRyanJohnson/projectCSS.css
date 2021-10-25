@@ -1,0 +1,204 @@
+/**/
+body {    
+	background-color: black;
+	
+}
+
+footer {
+            abckground-color: black;
+            color: white;
+            text-align: center;
+                
+
+}
+h1 {
+	font-family: 'Red Hat Display', sans-serif;
+	color: white;
+        margin-left: .5%; 
+        
+	
+	
+}
+
+p {
+	font-family: 'Red Hat Display', sans-serif;
+	
+	color: white;
+	padding-left: 15px;
+	
+}
+p1 {
+    	font-family: 'Red Hat Display', sans-serif;
+	background-color: black;
+	color: white;
+	padding-left: 15px;
+        text-align: right;
+       
+}
+table {
+	font-family: 'Red Hat Display', sans-serif;
+	background-color: lavender;
+	width: 98%;
+	margin: 15px;
+        align-content: center;
+        border: 1px solid black;
+}
+td {
+       background-color: white;
+}
+
+.test {
+       background-color: darkslategray;
+}
+.backBtn{
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #830000;
+  border: none;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  width: 48.5%;
+  margin: 15px;
+}
+.NewBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #005E0F;
+  border: none;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+}
+.saveBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #005E0F;
+  border: none;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  width: 48.5%;
+}
+
+.EditBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #000D83;
+  border: none;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 1%;
+  margin-bottom: 30px;
+
+  
+}
+.DelBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #830000;
+  border: none;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 1%;
+
+}
+.ViewBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #97ABE9;
+   border: none;
+  color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 1%;
+
+}
+.NewPostBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #97ABE9;
+   border: none;
+  color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  float: right;
+  margin-right: 1%;
+}
+  .SubmitBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #97ABE9;
+   border: none;
+  color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.BkBtn {
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #CCBBB7;
+  border: none;
+  color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 1%;
+};
